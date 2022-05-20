@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="com.test.mapper.BoardMapper">
+	<select id="getList" resultType="com.test.domain.BoardVO">
+		select * from tbl_board where bno > 0
+	</select>
+</mapper>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BoardServiceTest" project="test" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="com.test.service.BoardServiceTest" time="0.35">
+    <testcase name="testGet" classname="com.test.service.BoardServiceTest" time="0.294"/>
+    <testcase name="testExist" classname="com.test.service.BoardServiceTest" time="0.001"/>
+    <testcase name="testGetList" classname="com.test.service.BoardServiceTest" time="0.03"/>
+    <testcase name="testRegister" classname="com.test.service.BoardServiceTest" time="0.011"/>
+    <testcase name="testDelete" classname="com.test.service.BoardServiceTest" time="0.003"/>
+    <testcase name="testUpdate" classname="com.test.service.BoardServiceTest" time="0.006"/>
+  </testsuite>
+</testrun>

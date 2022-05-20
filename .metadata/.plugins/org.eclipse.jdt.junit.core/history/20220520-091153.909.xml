@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BoardMapperTest (1)" project="test" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="com.test.mapper.BoardMapperTest" time="0.409">
+    <testcase name="testRead" classname="com.test.mapper.BoardMapperTest" time="0.32"/>
+    <testcase name="testeset" classname="com.test.mapper.BoardMapperTest" time="0.05"/>
+    <testcase name="testGetList" classname="com.test.mapper.BoardMapperTest" time="0.017"/>
+    <testcase name="testInsertKey" classname="com.test.mapper.BoardMapperTest" time="0.01"/>
+    <testcase name="testDelete" classname="com.test.mapper.BoardMapperTest" time="0.002"/>
+    <testcase name="testInsert" classname="com.test.mapper.BoardMapperTest" time="0.003"/>
+    <testcase name="testUpdate" classname="com.test.mapper.BoardMapperTest" time="0.005"/>
+  </testsuite>
+</testrun>

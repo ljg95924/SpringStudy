@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BoardServiceTest.testUpdate" project="test" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="testUpdate" classname="com.test.service.BoardServiceTest" time="0.293"/>
+</testrun>

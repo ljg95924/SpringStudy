@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+C:\Users\BIT\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3161016446.index
+\test\src\main\java
+C:\Users\BIT\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1823557430.index
+\test\src\main\java
+C:\Users\BIT\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2797289857.index
+\shop\src\main\java
+C:\Users\BIT\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2282343975.index
+\test\src\main\java
+C:\Users\BIT\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1939011569.index
+\ShoppingMallProject\src\main\java
+C:\Users\BIT\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4045322483.index
+\test\src\main\java
+C:\Users\BIT\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3343605849.index
+\ShoppingMallProject\src\main\java

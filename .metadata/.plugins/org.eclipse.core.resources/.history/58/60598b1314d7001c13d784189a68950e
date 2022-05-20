@@ -1,0 +1,10 @@
+package com.test.domain;
+
+import java.util.ArrayList;
+
+public class SampleDTOList {
+	private List<SampleDTO> list;
+	public SampleDTOList() {
+		list = new ArrayList<>();
+	}
+}
